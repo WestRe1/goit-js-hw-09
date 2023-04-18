@@ -16,3 +16,21 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  display: flex;
+}
+.field {
+  margin-top: 5px;
+  margin-left: 5px;
+
+}
+.value {
+  display: flex;
+  justify-content: center;
+  font-size: 28px
+}
+.label {
+  display: flex;
+  flex-wrap: wrap;
+}
